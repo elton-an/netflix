@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: bisque;
+    overflow-x: hidden; /*evita barra de roalgem*/
+}
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
